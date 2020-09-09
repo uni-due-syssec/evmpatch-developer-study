@@ -1,0 +1,6 @@
+add_require_patch:
+  deposit: []
+  withdraw: []
+  migrateTo: []
+
+delete_function_patch: []
