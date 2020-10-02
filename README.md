@@ -13,8 +13,10 @@ proper bibtex entry once our paper is published.
 
 ```bibtex
 @inproceedings{evmpatch,
-  title     = "EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts",
+  title     = "{EVMPatch}: Timely and Automated Patching of Ethereum Smart Contracts",
   author    = "Rodler, Michael and Li, Wenting and Karame, Ghassan and Davi, Lucas",
+  booktitle    = "30th {USENIX} Security Symposium ({USENIX} Security '21) [To be published]",
+  year         = "2021",
 }
 ```
 
