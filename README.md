@@ -2,14 +2,13 @@
 
 This repository contains the details of the developer study conducted in the
 course of our paper *EVMPatch: Timely and Automated Patching of Ethereum Smart
-Contracts*. The data and code in this repository was produced during a research
-collaboration of [NEC Labs Europe](http://www.neclab.eu) and [University of Duisburg-Essen](https://www.syssec.wiwi.uni-due.de/).
+Contracts* ([arXiv:2010.00341](https://arxiv.org/abs/2010.00341)). 
+The data and code in this repository was produced during a research collaboration of [NEC Labs Europe](http://www.neclab.eu) and [University of Duisburg-Essen](https://www.syssec.wiwi.uni-due.de/).
 
 
 ## Citing in Academic Work
 
-For citing these results in academic work, we will update this section with a
-proper bibtex entry once our paper is published.
+For citing these results in academic work please use the following bibtex entry:
 
 ```bibtex
 @inproceedings{evmpatch,
